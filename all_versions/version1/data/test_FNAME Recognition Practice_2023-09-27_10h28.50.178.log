@@ -1,0 +1,5 @@
+1.0245 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+5.1539 	WARNING 	User requested fullscreen with size [1440  900], but screen is actually [2560, 1440]. Using actual size
+13.8318 	DATA 	Keypress: space
+15.1288 	DATA 	Keypress: space
+16.2311 	DATA 	Keypress: escape
